@@ -4,7 +4,7 @@
  * @license    GNU General Public License version 2 or later; see LICENSE
  */
 
-namespace Joomla\Archive\Tests;
+namespace Joomla\Tests\Archive;
 
 use Joomla\Archive\Archive;
 use Joomla\Archive\Exception\UnknownArchiveException;

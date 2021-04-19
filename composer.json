@@ -21,12 +21,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Joomla\\Archive\\": "src/"
+            "Joomla\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Joomla\\Archive\\Tests\\": "Tests/"
+            "Joomla\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "dev",
